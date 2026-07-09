@@ -725,3 +725,17 @@ Please use this scraper responsibly and in accordance with applicable laws and r
 <p align="center">
   <sub>Banner generated using OpenAI's DALL-E</sub>
 </p>
+
+## Screenshots
+
+> Screenshots coming soon. This section will showcase the application's interface and key features.
+
+## Live Demo
+
+> A live demo is being prepared. Once deployed, a link will be available here.
+
+[![Demo Status](https://img.shields.io/badge/demo-pending-lightgrey)]()
+
+---
+
+*This project is actively maintained. For questions or feedback, please open an issue.*
